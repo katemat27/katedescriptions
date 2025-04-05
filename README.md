@@ -1,4 +1,4 @@
-#Hi, my name is Kate 👋 and I ❤️ Data Science
+Hi, my name is Kate 👋 and I ❤️ Data Science
 
 Skills 🛠️:
 
